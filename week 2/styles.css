@@ -1,0 +1,9 @@
+/* Simple Selector */
+p{
+    color: red;
+}
+
+/* Combinator Selector */
+div p {
+    color: blue;
+}

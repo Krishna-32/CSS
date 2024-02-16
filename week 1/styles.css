@@ -1,0 +1,39 @@
+body{
+    background-color: wheat;
+    overflow: hidden;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    font-size: 400%;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: brown;
+    padding-left: 7%;
+    padding-right: 7%;
+    font-size: 150%;
+}
+
+img.img{
+    width: 70%;
+    position: relative;
+    left: 35%;
+    bottom: 18em;
+    filter: drop-shadow(1px 1px 3px black);
+}
+
+article{
+    padding-top: 10%;
+    font-size: 120%;
+    color: brown;
+    width: 50%;
+    text-align: center;
+}
+

@@ -1,0 +1,57 @@
+header{
+    background: rgb(255,34,0);background: rgb(255,34,0);
+    background: linear-gradient(180deg, rgba(255,34,0,1) 0%, rgba(81,42,42,1) 100%);
+    text-align: center;
+}
+
+header img{
+    display: flex;
+    width: 250px;
+    margin-left: 15rem;
+    margin-top: -2rem;
+    position: relative;
+    bottom: 2.3rem;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.500));
+}
+
+header h1{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 700;
+    color: aliceblue;
+    margin-left: -17.5rem;
+    position: relative;
+    top: 1.5rem;
+}
+
+header h3{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 500;
+    color: aliceblue;
+    margin-left: -25rem;
+    position: relative;
+    top: 1.5rem;
+}
+
+header p{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 500;
+    color: aliceblue;
+    width: 400px;
+    text-align: left;
+    margin-left: 32rem;
+    margin-top: -8.5rem;
+    position: relative;
+    bottom: 2rem;
+}
+
+article{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+footer{
+    text-align: center;
+    font-family: "Jost", sans-serif;
+}
